@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\code\CommerceSimulation\CommerceSimulation\CommerceSimulation\People.h(72,10): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\code\CommerceSimulation\CommerceSimulation\CommerceSimulation\main.cpp(197,80): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  CommerceSimulation.vcxproj -> D:\code\CommerceSimulation\CommerceSimulation\Debug\CommerceSimulation.exe
